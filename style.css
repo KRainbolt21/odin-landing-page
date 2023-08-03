@@ -76,3 +76,10 @@ button {
     height: 300px;
     margin-top: 50px;
 }
+
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
