@@ -84,9 +84,15 @@ button {
     align-items: center;
 }
 
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .square {
     display: flex;
     flex-direction: column;
+    width: 100px;
 }
 
 .img {
