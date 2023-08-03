@@ -83,3 +83,8 @@ button {
     justify-content: space-around;
     align-items: center;
 }
+
+.square {
+    display: flex;
+    flex-direction: column;
+}
