@@ -113,3 +113,14 @@ h2 {
     width: 200px;
     height: 200px;
 }
+
+.quote {
+    background-color: #e5E7EB;
+    font-style: italic;
+    font-weight: light;
+    font-size: 36px;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
