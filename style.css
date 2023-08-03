@@ -4,7 +4,7 @@ body{
 
 .top {
     background-color: #1F2937;
-    padding: 0 100px;
+    padding: 0 100px 100px 100px;
 }
 
 .header {
@@ -64,4 +64,5 @@ button {
     display: flex;
     justify-content: center;
     gap: 20px;
+    height: 200px;
 }
