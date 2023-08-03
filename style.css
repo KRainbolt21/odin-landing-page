@@ -29,10 +29,19 @@ li {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    width: 400px;
+    flex-wrap: wrap;
+    align-items: flex-start;
 }
 
 h1 {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
+    margin: 10px;
+}
+
+.paragraph {
+    font-size: 18px;
+    color: #E5E7EB;
 }
