@@ -24,3 +24,15 @@ ul {
 li {
     text-decoration: none;
 }
+
+.awesome {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
