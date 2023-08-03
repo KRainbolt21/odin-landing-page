@@ -32,16 +32,26 @@ li {
     width: 400px;
     flex-wrap: wrap;
     align-items: flex-start;
+    margin: 10px;
 }
 
 h1 {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
-    margin: 10px;
+    margin-bottom: 8px;
 }
 
 .paragraph {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+button {
+    background: #3882F6;
+    color:#F9FAF8;
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #3882F6;
 }
