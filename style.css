@@ -61,6 +61,7 @@ button {
 
 .image-space {
     background-color: gray;
+    color:#E5E7EB;
     width: 400px;
     height: 268px;
     display: flex;
