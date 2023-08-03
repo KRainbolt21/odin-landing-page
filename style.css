@@ -138,9 +138,11 @@ div .reference {
 .action {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #3882F6;
     color: #F9FAF8;
-    padding: 40px 50px;
+    padding: 30px 50px;
+    margin: 100px 0px;
 }
 
 .action button {
