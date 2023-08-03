@@ -30,7 +30,6 @@ li {
     flex-direction: column;
     gap: 10px;
     width: 400px;
-    flex-wrap: wrap;
     align-items: flex-start;
     margin: 0;
     padding: 0;
@@ -56,7 +55,6 @@ button {
     padding: 8px 16px;
     border-radius: 8px;
     border: 1px solid #3882F6;
-    flex-wrap: nowrap;
     width: 100px;
     height: 30px;
 }
@@ -69,6 +67,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-shrink: 2;
 }
 
 .awesome {
