@@ -88,3 +88,10 @@ button {
     display: flex;
     flex-direction: column;
 }
+
+.img {
+    border: 5px solid #3882F6;
+    border-radius: 8px;
+    width: 100px;
+    height: 100px;
+}
