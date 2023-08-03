@@ -11,4 +11,15 @@ body{
     font-size: 18px; 
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+}
+
+li {
+    text-decoration: none;
 }
